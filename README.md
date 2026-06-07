@@ -1,5 +1,9 @@
 # ReadLaterCleaner
 
+[![CI](https://github.com/peals-pline/read-later-cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/peals-pline/read-later-cleaner/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/peals-pline/read-later-cleaner)](https://github.com/peals-pline/read-later-cleaner/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 **A privacy-friendly browser extension for cleaning your read-later backlog.**
 
 ReadLaterCleaner helps students, researchers, developers, writers, and heavy tab
@@ -97,6 +101,10 @@ See [ROADMAP.md](ROADMAP.md).
 Focused issues and pull requests are welcome. Please read
 [CONTRIBUTING.md](CONTRIBUTING.md) before proposing larger changes.
 
+## Maintainer workflow
+
+ReadLaterCleaner is maintained through public [issues](https://github.com/peals-pline/read-later-cleaner/issues), focused pull requests, CI checks, and versioned [releases](https://github.com/peals-pline/read-later-cleaner/releases). Installable release builds are attached to the relevant GitHub release.
+
 ## Security
 
 Report privacy or security issues according to [SECURITY.md](SECURITY.md).
@@ -104,4 +112,3 @@ Report privacy or security issues according to [SECURITY.md](SECURITY.md).
 ## License
 
 [MIT](LICENSE) © 2026 Denis Dyakov
-
